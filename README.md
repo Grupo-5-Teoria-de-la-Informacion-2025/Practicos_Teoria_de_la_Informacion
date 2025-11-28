@@ -6,3 +6,4 @@ Practico 1 TDI - G5
 Practico 2 TDI - G5
 Practico 3 TDI - G5
 Practico 4 TDI - G5
+Reed-Solomon-Codificacion
